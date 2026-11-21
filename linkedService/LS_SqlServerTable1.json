@@ -1,0 +1,17 @@
+{
+	"name": "LS_SqlServerTable1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"server": "DESKTOP-FONS71K\\SQLEXPRESS",
+			"database": "SQLMIGRATION",
+			"encrypt": "optional",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "sa",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEVBRUNBMTY5LTcyNjAtNEM1Ri04MUE5LTlBMTZFNDc2MzA1Ml8xN2RlYmI3Yi0wNjVmLTQzYjAtOTNiNy1hYmZjYzI0NTY0NGIiDQp9"
+		}
+	}
+}
