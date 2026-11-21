@@ -1,0 +1,16 @@
+{
+	"name": "adfdevbloombergproject11",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e478240a-2848-4922-b7c0-6d5d31ccf578",
+		"tenantId": "f274604b-0cc9-4fc7-b097-d5aa63737cc6"
+	}
+}
